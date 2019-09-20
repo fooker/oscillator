@@ -1,0 +1,14 @@
+[package]
+name = "oscillator"
+version = "0.1.0"
+authors = ["Dustin Frisch <fooker@lab.sh>"]
+edition = "2018"
+
+[dependencies]
+clap = "*"
+glob = "*"
+svg = "*"
+failure = "*"
+log = "*"
+simple_logger = "*"
+hound = "*"
